@@ -1,6 +1,6 @@
 ## Olá! Eu sou Fernanda, conhecida também como NandinhaPlay :)
 
-- ✒ Trabalho como Assessora de Marketing na Empresa Junior byron.solutions
+- ✒ Trabalho como Gerente de Marketing na Empresa Junior byron.solutions
 - 👩‍💻 Tenho conhecimento em: C, C++, Git, Desenvolvimento Web, UX e UI
 - 🎓 Atualmente no 4º período em Engenharia de Computação na UNIFEI 
 - 🌱 Estudando Python, React Native, SQL e Ruby 
