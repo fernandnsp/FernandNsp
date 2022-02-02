@@ -1,9 +1,9 @@
-## Olá! Eu sou Fernanda, conhecida também como NandinhaPlay :)
+### Olá! Eu sou Fernanda, conhecida também como NandinhaPlay :)
 
 - ✒ Trabalho como Gerente de Marketing na Empresa Junior byron.solutions
 - 👩‍💻 Tenho conhecimento em: C, C++, Git, Desenvolvimento Web, UX e UI
-- 🎓 Atualmente no 4º período em Engenharia de Computação na UNIFEI 
-- 🌱 Estudando Python, React Native, SQL e Ruby 
+- 🎓 Atualmente no 5º período em Engenharia de Computação na UNIFEI 
+- 🌱 Me aprimorando em Desenvolvimento Web utilizando o framework VueJS
 - 😄 Pronomes: ela/dela
 
 <div>
@@ -18,6 +18,7 @@
   <img align="center" alt="Fernanda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Fernanda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Fernanda-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Fernanda-VueJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-plain.svg">
 </div>
 
 ##
