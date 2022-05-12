@@ -1,9 +1,9 @@
 ### Olá! Eu sou Fernanda, conhecida também como NandinhaPlay :)
 
-- ✒ Trabalho como Gerente de Marketing na Empresa Junior byron.solutions
-- 👩‍💻 Tenho conhecimento em: C, C++, Git, Desenvolvimento Web, UX e UI
+- ✒ Trabalho como Dev Front-end Jr na Empresa <a href="https://mova.vc/">Mova Sociedade de Empréstimo entre Pessoas S.A.</a>
+- 👩‍💻 Tenho conhecimento em: Git/GitHub/GitLab, Desenvolvimento Front-end com VueJs/NuxtJS, UX/UI
+- 💻 Conhecimento em linguagens gerais: C/C++, Java, Básico de Python e Ruby
 - 🎓 Atualmente no 5º período em Engenharia de Computação na UNIFEI 
-- 🌱 Me aprimorando em Desenvolvimento Web utilizando o framework VueJS
 - 😄 Pronomes: ela/dela
 
 <div>
