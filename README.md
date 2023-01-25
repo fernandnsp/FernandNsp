@@ -1,7 +1,7 @@
 ### Olá! Eu sou Fernanda Sene :)
 
 Atualmente trabalho como Desenvolvedora Front-end Jr na Empresa <a href="https://mova.vc/">Mova Sociedade de Empréstimo entre Pessoas S.A</a>, utilizando de Nuxt.js, juntamente do MD Vuetify. O gerenciamento de estados é através da Vuex, e o teste unitário com Jest e Vue unit.
-<br><br>
+<br>
 
 **Geral:** C/C++, Java, Git, Básico de Python e Ruby;<br>
 **Web:** HTML/CSS, JavaScript, TypeScript, Sass, Vue.js/Nuxt.js, Básico de React.js, Básico de Styled components, Tailwind;<br>
