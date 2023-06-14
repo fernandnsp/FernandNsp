@@ -7,7 +7,7 @@ Atualmente trabalho como Desenvolvedora Front-end Jr na Empresa <a href="https:/
 **Web:** HTML/CSS, JavaScript, TypeScript, Sass, Vue.js/Nuxt.js, Básico de React.js, Básico de Styled components, Tailwind;<br>
 **Design:** Figma, AdobeXD, UX/UI.<br>
 
-**Cursando:** 6º período em Engenharia de Computação na UNIFEI.<br>
+**Cursando:** 7º período em Engenharia de Computação na UNIFEI.<br>
 **Pronomes:** ela/dela.<br>
 **Currículo:** <a href="https://www.cvkeep.com/cv/fernandasene">CV Keep</a><br>
 
